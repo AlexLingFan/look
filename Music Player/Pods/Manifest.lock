@@ -1,0 +1,29 @@
+PODS:
+  - FanRefresh (0.1.1)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxSwift (4.5.0)
+  - SnapKit (4.0.1)
+
+DEPENDENCIES:
+  - FanRefresh (~> 0.1.0)
+  - RxCocoa (~> 4)
+  - RxSwift (~> 4)
+  - SnapKit (~> 4.0.1)
+
+SPEC REPOS:
+  trunk:
+    - FanRefresh
+    - RxCocoa
+    - RxSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  FanRefresh: 94602f31082ac47ff100b333a9fad8d700f7a08f
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+
+PODFILE CHECKSUM: b6962b397d708e49121d51f256d8df1feec63504
+
+COCOAPODS: 1.11.2

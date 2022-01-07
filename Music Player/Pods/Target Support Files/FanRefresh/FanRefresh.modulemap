@@ -1,0 +1,6 @@
+framework module FanRefresh {
+  umbrella header "FanRefresh-umbrella.h"
+
+  export *
+  module * { export * }
+}

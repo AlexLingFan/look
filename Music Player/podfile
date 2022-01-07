@@ -1,0 +1,19 @@
+source 'https://github.com/CocoaPods/Specs.git'
+       platform :ios, '8.0'
+
+            use_frameworks!
+
+            inhibit_all_warnings!
+
+            target “Music Player” do
+        #下面写入工程所需库
+            pod 'RxCocoa’, '~> 4’
+            pod 'RxSwift’, '~> 4’
+            pod ‘FanRefresh’, ‘~> 0.1.0'
+            pod 'Kingfisher', '~> 1.8'
+            #pod 'RxBluetoothKit'
+
+            pod 'SnapKit','~>4.0.1’
+
+     end
+
